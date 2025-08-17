@@ -18,26 +18,6 @@ This project demonstrates how to clean, transform, and prepare images for **mach
 
 ## 📂 Directory Structure
 
-# 🖼️ Image Preprocessing with Python
-
-A beginner-friendly repository showcasing common **image preprocessing techniques** using Python.  
-This project demonstrates how to clean, transform, and prepare images for **machine learning and computer vision tasks**.
-
----
-
-## 🚀 Features
-
-- ✅ Convert images to grayscale  
-- ✅ Resize and scale images  
-- ✅ Apply blurring and denoising filters  
-- ✅ Image thresholding and edge detection  
-- ✅ Geometric transformations (rotation, flipping, cropping)  
-- ✅ Save processed images in different formats  
-
----
-
-## 📂 Directory Structure
-
 Image-Preprocessing-with-Python/
 ├── notebooks/
 │ └── image_preprocessing.ipynb # Jupyter notebook with code examples
