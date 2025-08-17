@@ -1,4 +1,4 @@
-# 🖼️ Image Preprocessing with Python
+# 🖼️ Image Preprocessing with Machine Learning:
 
 A beginner-friendly repository showcasing common **image preprocessing techniques** using Python.  
 This project demonstrates how to clean, transform, and prepare images for **machine learning and computer vision tasks**.
