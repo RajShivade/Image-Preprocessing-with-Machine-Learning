@@ -33,7 +33,7 @@ Image-Preprocessing-with-Python/
 
 ---
 
-## ⚙️ Installation
+## ⚙️ Installation :
 
 Clone this repository and install dependencies:
 
@@ -48,7 +48,7 @@ Run the Jupyter Notebook:
 jupyter notebook notebooks/image_preprocessing.ipynb
 
 
-🤝 Contributing
+🤝 Contributing :
 
 Contributions are welcome!
 
