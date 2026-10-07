@@ -1,11 +1,11 @@
-# 🖼️ Image Preprocessing with Machine Learning
+# 🖼️ Image Preprocessing with Machine Learning :
 
 Image Preprocessing with Python is a beginner-friendly repository designed to demonstrate the most commonly used image preprocessing techniques required for Machine Learning and Computer Vision tasks.
 The project focuses on preparing raw images into clean, structured, and model-ready formats using Python-based tools.
 
 Image preprocessing is a critical step in computer vision pipelines, as raw images often contain noise, varying resolutions, lighting issues, and irrelevant details that can negatively impact model performance. This repository provides hands-on examples to address these challenges.
 
-## 🎯 Project Objectives
+## 🎯 Project Objectives :
 
 Understand the fundamentals of image preprocessing
 
@@ -15,7 +15,7 @@ Prepare images suitable for ML and CV models
 
 Build a strong foundation for advanced tasks like image classification, object detection, and deep learning
 
-## 🚀 Key Features
+## 🚀 Key Features :
 
 ✔ Grayscale Conversion
 Convert RGB images to grayscale to reduce dimensionality and simplify processing.
@@ -38,7 +38,7 @@ Perform image rotation, flipping, cropping, and translation to improve robustnes
 ✔ Image Saving & Format Handling
 Save processed images in multiple formats for reuse and analysis.
 
-## 🧰 Technologies & Libraries Used
+## 🧰 Technologies & Libraries Used :
 
 Python
 
@@ -50,7 +50,7 @@ Matplotlib
 
 Jupyter Notebook
 
-## 📂 Project Directory Structure
+## 📂 Project Directory Structure :
 
     Image-Preprocessing-with-Python/
     │
@@ -68,7 +68,7 @@ Jupyter Notebook
     ├── requirements.txt # Required Python dependencies
     └── README.md        # Project documentation
 
-## 📌 Use Cases
+## 📌 Use Cases : 
 
 ✔ Machine Learning image pipelines
 
@@ -80,7 +80,7 @@ Jupyter Notebook
 
 ✔ Interview preparation for CV/ML roles
 
-## 📊 Learning Outcomes
+## 📊 Learning Outcomes :
 
 - Hands-on experience with image preprocessing workflows
 
@@ -90,7 +90,7 @@ Jupyter Notebook
 
 - Strong foundation for advanced topics like CNNs and Deep Learning
 
-## 📌 Use Cases
+## 📌 Use Cases :
 
 - Machine Learning image pipelines
 
@@ -102,7 +102,7 @@ Jupyter Notebook
 
 - Interview preparation for ML/CV roles
 
-## 🤝 Contributing
+## 🤝 Contributing :
 
 Contributions are welcome!
 
@@ -114,11 +114,11 @@ Commit your changes
 
 Open a Pull Request
 
-## ⭐ Acknowledgements
+## ⭐ Acknowledgements :
 
 This project is created for learning and portfolio purposes and is inspired by real-world computer vision preprocessing workflows.
 
-## 📬 Contact
+## 📬 Contact :
 
 **Raj Shivade**
 Aspiring Data Analyst | Data Science Enthusiast
